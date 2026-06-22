@@ -22,5 +22,5 @@ Desarrollado como TPI de Programación 2 – UTN.
 Valentín Altube – 2026
 
 ## Links
-- 🎥 Video demostración: [pendiente]
-- 📄 Informe PDF: [pendiente]
+- 🎥 Video demostración: https://youtu.be/N82E76JqZnI
+- 📄 Informe PDF: (https://github.com/valentin0987/Integrador_programacion_2/blob/master/Informe_TPI_Prog2_ValentinAltube.pdf)
